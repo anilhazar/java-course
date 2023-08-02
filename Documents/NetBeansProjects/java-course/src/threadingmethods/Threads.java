@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 
 public class Threads {
       private int count = 0;
-    public synchronized void artir(){
+    public synchronized void arttir(){
         
         count++;
     }
@@ -14,7 +14,7 @@ public class Threads {
             @Override
             public void run() {
                 for(int i = 0 ;  i < 5000 ; i++) {
-                    artir();
+                    arttir();
                     
                 }
             }
@@ -23,7 +23,7 @@ public class Threads {
             @Override
             public void run() {
                 for(int i = 0 ;  i < 5000 ; i++) {
-                    artir();
+                    arttir();
                 }
             }
         });
@@ -45,7 +45,7 @@ public class Threads {
       
         
         
-        System.out.println("Count deðiþkenin deðeri : " + count);
+        System.out.println("Count deÃ°iÃ¾kenin deÃ°eri : " + count);
         
     }    
 
