@@ -27,6 +27,5 @@ public class BeybladeFabrikasi {
             return null;
             
         }
-        
     }
 }
