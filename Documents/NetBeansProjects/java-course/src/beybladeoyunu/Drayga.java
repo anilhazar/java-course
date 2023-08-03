@@ -23,6 +23,4 @@ public class Drayga extends Beyblade {
         System.out.println(getBeybladeci() + " ın Saldırısı : Kaplan Pençesi");
 
     }
-    
-    
-}
+  }
