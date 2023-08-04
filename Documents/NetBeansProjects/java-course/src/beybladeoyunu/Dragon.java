@@ -26,6 +26,4 @@ public class Dragon extends  Beyblade {
         System.out.println(getBeybladeci() + " ın Saldırısı  : Hayalet Kasırgası");
 
     }
-    
-    
-}
+ }

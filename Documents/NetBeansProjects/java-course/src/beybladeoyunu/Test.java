@@ -36,13 +36,10 @@ public class Test {
                     beyblade.kutsalCanavarOrtayaCikar();
                 }
                 
-                
             }
-            
-            
             
         }
         
-        
     }
+
 }
