@@ -23,6 +23,4 @@ public class Draciel extends Beyblade {
         System.out.println(getBeybladeci() + " ın Savunması  : Kale Savunması");
 
     }
-    
-    
-}
+  }

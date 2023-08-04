@@ -26,6 +26,4 @@ public class Dranza extends Beyblade {
         System.out.println(getBeybladeci() + " ın Saldırısı : Alev Kılıcı");
         
     }
-    
-    
-}
+  }
