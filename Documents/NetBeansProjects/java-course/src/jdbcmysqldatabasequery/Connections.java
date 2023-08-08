@@ -13,17 +13,17 @@ public class Connections {
 
     private String host = "localhost";
 
-    private int port = 215153155445353435434354354;
+    private int port = 2151531;
 
-    private Connection connection = null;
+    private Connection connection;
 
-    private Statement statement = null;
+    private Statement statement;
 
-    private PreparedStatement preparedStatement = null;
+    private PreparedStatement preparedStatement;
 
     public void manuelCommit() {
         connection.setAutoCommit(false); // commit and rollback methods are manueal now
-        statement = connection.createConnection();
+        statement = connection.createStatement();
         String query1 = "DELETE FROM table WHERE id = 2";
         String query2 = "UPDATE table SET isim='Ali' WHERE id=1";
 
@@ -45,7 +45,7 @@ public class Connections {
         try {
             statement = connection.createStatement();
 
-            ResultSet = resultSet = statement.executeQuery(query);
+            ResultSet resultSet = statement.executeQuery(query);
 
         } catch (Exception e) {
         }
@@ -77,7 +77,7 @@ public class Connections {
         String query = "INSERT INTO table ("name", "surname", "age") VALUES (" '" + name + "'  " + surname + "  '" + age + "'  ")"
         ;
         
-    statement.executeUpdate(query); // ekleme yaptýðýmýzdan tabloyu güncellemiþ oluyoruz aslýnda.
+    statement.executeUpdate(query); // ekleme yaptÃ½Ã°Ã½mÃ½zdan tabloyu gÃ¼ncellemiÃ¾ oluyoruz aslÃ½nda.
     }
     catch(Exception ex){
    }
