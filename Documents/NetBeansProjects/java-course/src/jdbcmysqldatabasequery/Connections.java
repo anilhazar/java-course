@@ -34,6 +34,7 @@ public class Connections {
             System.out.println("Query Failed. Rolling back the remaining queries...");
 
         } else {
+            statement.executeUpdate(query1);
             connection.commit();
         }
 
