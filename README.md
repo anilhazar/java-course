@@ -6,3 +6,4 @@ This repository contains a series of projects designed for learning Java program
 
 2. **Memory Game**: The "Memory Game" project is a Java-based memory card game. It allows players to test their memory by matching pairs of cards on a game board.
 
+3. **Thread Methods**: The "Thread Methods" project demonstrates Java's multithreading capabilities using both the 'extends Thread' and 'implements Runnable' methods.
