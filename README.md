@@ -9,3 +9,5 @@ This repository contains a series of projects designed for learning Java program
 3. **Thread Methods**: The "Thread Methods" project demonstrates Java's multithreading capabilities using both the 'extends Thread' and 'implements Runnable' methods.
 
 4. **Executor Service Thread Pool**: The "Executor Service Thread Pool" project showcases how to efficiently manage thread execution with a fixed thread pool using the Executor Service.
+
+5. **Reentrant Lock Await-Signal**: The "Reentrant Lock Await-Signal" project illustrates the usage of the Reentrant Lock with await and signal mechanisms to coordinate threads.
