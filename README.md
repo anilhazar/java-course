@@ -11,3 +11,5 @@ This repository contains a series of projects designed for learning Java program
 4. **Executor Service Thread Pool**: The "Executor Service Thread Pool" project showcases how to efficiently manage thread execution with a fixed thread pool using the Executor Service.
 
 5. **Reentrant Lock Await-Signal**: The "Reentrant Lock Await-Signal" project illustrates the usage of the Reentrant Lock with await and signal mechanisms to coordinate threads.
+
+6. **Array Blocking Queue**: The "Array Blocking Queue" project demonstrates the use of a bounded blocking queue to coordinate the producer-consumer pattern in a multithreaded environment.
