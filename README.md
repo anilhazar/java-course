@@ -13,3 +13,5 @@ This repository contains a series of projects designed for learning Java program
 5. **Reentrant Lock Await-Signal**: The "Reentrant Lock Await-Signal" project illustrates the usage of the Reentrant Lock with await and signal mechanisms to coordinate threads.
 
 6. **Array Blocking Queue**: The "Array Blocking Queue" project demonstrates the use of a bounded blocking queue to coordinate the producer-consumer pattern in a multithreaded environment.
+
+7. **Beyblade Oyunu**: The "Beyblade Oyunu" project is a Java program that simulates Beyblade battles. You can create and battle with various Beyblades, each having its own unique characteristics and abilities.
