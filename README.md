@@ -14,4 +14,7 @@ This repository contains a series of projects designed for learning Java program
 
 6. **Array Blocking Queue**: The "Array Blocking Queue" project demonstrates the use of a bounded blocking queue to coordinate the producer-consumer pattern in a multithreaded environment.
 
-7. **Beyblade Oyunu**: The "Beyblade Oyunu" project is a Java program that simulates Beyblade battles. You can create and battle with various Beyblades, each having its own unique characteristics and abilities.
+7. **Beyblade Oyunu**: This project is a Java program that simulates Beyblade battles. You can create and battle with various Beyblades, each having its own unique characteristics and abilities.
+
+8. **Math and Physics Problems**: This project allows you to solve various math and physics problems. You can calculate the area of a circle, the perimeter of a triangle, and perform the dot product of 3D vectors. It's a handy tool for practicing math and physics concepts.
+
