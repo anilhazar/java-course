@@ -18,3 +18,5 @@ This repository contains a series of projects designed for learning Java program
 
 8. **Math and Physics Problems**: This project allows you to solve various math and physics problems. You can calculate the area of a circle, the perimeter of a triangle, and perform the dot product of 3D vectors. It's a handy tool for practicing math and physics concepts.
 
+9. **Producer-Consumer with ArrayBlockingQueue**: The "Producer-Consumer with ArrayBlockingQueue" project showcases the implementation of a producer-consumer pattern using an ArrayBlockingQueue, demonstrating efficient multithreading and queue management.
+
