@@ -20,3 +20,5 @@ This repository contains a series of projects designed for learning Java program
 
 9. **Producer-Consumer with ArrayBlockingQueue**: The "Producer-Consumer with ArrayBlockingQueue" project showcases the implementation of a producer-consumer pattern using an ArrayBlockingQueue, demonstrating efficient multithreading and queue management.
 
+10. **Robot Wars**: The "Robot Wars" project is a Java program that simulates a battle between robots. You can create and battle with various robots, each with its own weight and rapidity. The project calculates the scores of the robots and determines the winner.
+
