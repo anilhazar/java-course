@@ -22,3 +22,5 @@ This repository contains a series of projects designed for learning Java program
 
 10. **Robot Wars**: The "Robot Wars" project is a Java program that simulates a battle between robots. You can create and battle with various robots, each with its own weight and rapidity. The project calculates the scores of the robots and determines the winner.
 
+11. **Palindrome Checker**: This project allows you to check if a word is a palindrome. It uses the Stack data structure to efficiently determine whether the input word reads the same backward as forward.
+
