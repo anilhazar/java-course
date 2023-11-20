@@ -24,3 +24,5 @@ This repository contains a series of projects designed for learning Java program
 
 11. **Palindrome Checker**: This project allows you to check if a word is a palindrome. It uses the Stack data structure to efficiently determine whether the input word reads the same backward as forward.
 
+12. **ThreadSafe**: The "ThreadSafe" project demonstrates the concept of thread safety in Java. It involves incrementing a counter by two separate threads and ensuring the correct result using synchronization.
+
